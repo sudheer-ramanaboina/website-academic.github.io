@@ -1,0 +1,37 @@
+# main links links
+main:
+  # - title: "Notes"
+  # url: /https://github.com/academicpages/academicpages.github.io/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Talks"
+    url: /talks/    
+
+  # - title: "Teaching"
+  #   url: /teaching/    
+    
+  - title: "Portfolio"
+    url: /portfolio/
+        
+  - title: "Blog Posts"
+    url: /year-archive/
+    
+  - title: "CV"
+    url: /files/Resume.pdf
+
+  # - title: "Notes"
+  #   url: "https://deepgenerativemodels.github.io/notes/index.html"
+
+  # - title: "Categories"
+  #   url: /categories/
+
+  # - title: "cat"
+  #   url: /cat/ 
+    
+  # - title: "Guide"
+  #   url: /markdown/
+
+  # - title: "Sample"
+  #   url: /Sample/Sample/
