@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Mounika Homepage"
+title                    : "sudheer Homepage"
 title_separator          : "-"
 name                     : &name "sudheer ramanaboina"
 description              : &description "personal description"
@@ -22,11 +22,11 @@ repository               : "https://github.com/sudheer-ramanaboina/website-acade
 author:
   # Biographic information
   avatar           : "pic.jpg"
-  name             : "Harsha Mounika Jampana"
-  pronouns         : # example: "she/her"  
+  name             : "sudheer ramanaboina"
+  pronouns         : # example: "he"  
   bio              : "Currently working in a KPIT Company as Trainee"
   location         : "Andhra Pradesh, India "
-  employer         : "MVGR College of Engineering"
+  employer         : "NCET"
   uri              : # URL
   email            : "sudheerr4@kpit.com" 
 
