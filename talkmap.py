@@ -2,7 +2,7 @@
 
 # # Leaflet cluster map of talk locations
 #
-# (c) 2016-2017 R. Stuart Geiger, released under the MIT license
+# (c) 2024 sudheer ramanaboina, released under the MIT license
 #
 # Run this from the _talks/ directory, which contains .md files of all your talks. 
 # This scrapes the location YAML field from each .md file, geolocates it with
